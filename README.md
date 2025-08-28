@@ -12,7 +12,7 @@ An **interactive dashboard** to analyze **Zomato & Swiggy order data** with insi
 ---
 
 ## 🌐 Live Demo  
-👉 [Click here to use the app](https://food-delivery-trends-dashboard-j8akai72aks6sfgv283yx2.streamlit.app/)  
+👉 [Click here to use the app](https://food-delivery-trends-dashboard-x7m6bbm9pfrg4cb4lggrw2.streamlit.app/)  
 
 ---
 
